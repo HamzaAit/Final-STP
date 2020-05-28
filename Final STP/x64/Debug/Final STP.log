@@ -1,0 +1,4 @@
+﻿  Final STP.cpp
+C:\Users\Tera\Downloads\tapis tts\tapis tts\Final STP\Final STP.cpp(9,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tera\Downloads\tapis tts\tapis tts\Final STP\Final STP.cpp(31,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Final STP.vcxproj -> C:\Users\Tera\Downloads\tapis tts\tapis tts\x64\Debug\Final STP.exe
